@@ -36,15 +36,11 @@ As the Data Analyst, I:
 * A **Profit & Loss Statement** provides a detailed breakdown of revenues, costs, and profits.
 * A chart highlights the **Top/Bottom Customers & Products** based on net sales.
 
- <img width="1545" height="803" alt="Finance View" src="https://github.com/user-attachments/assets/da588d49-5bb1-4b5f-b293-d7d87fbba4cb" />
-
 
 ### Sales View
 * A **Performance Matrix** plots Gross Margin against Net Sales for different stores and regions.
 * The **Customer Performance** table shows Net Sales ($), Gross Margin ($), and GM% for individual customers.
 * **Unit Economics** are detailed in a donut chart, breaking down total COGS (Cost of Goods Sold), Gross Margin, and Net Sales.
-
-<img width="1507" height="802" alt="Sales View" src="https://github.com/user-attachments/assets/d2b00882-b548-4fa7-a0f5-b1b888f118d3" />
 
 
 ### Marketing View
@@ -52,15 +48,11 @@ As the Data Analyst, I:
 * A table provides a detailed view of Net Sales, Gross Margin, and Net Profit for various countries and segments.
 * A **Net Sales & Gross Margin Bifurcation** chart shows the relationship between Gross Margin, Operational Expense, and Net Profit.
 
-<img width="1582" height="802" alt="Marketing View" src="https://github.com/user-attachments/assets/7678c402-4d7a-4e16-8c84-2ba041393cb7" />
-
 
 ### Supply Chain View
 * **Forecast Accuracy** and **Net Error** are the main metrics, with a trend chart showing performance over time.
 * **Key Metrics by Customer and by Product** tables show forecast accuracy (FCA), net error, and a risk assessment (e.g., Excess Inventory or Out-of-Stock).
 * The data helps in identifying inventory issues and optimizing supply chain operations.
-
-<img width="1532" height="807" alt="Supply Chain View" src="https://github.com/user-attachments/assets/87d71047-babf-44c7-b2f1-1a37daced7ef" />
 
 
 ### Executive View
@@ -68,8 +60,6 @@ As the Data Analyst, I:
 * Trends over time for revenue contribution, GM%, and NP% are displayed on line and bar charts.
 * Tables provide a quick look at the **Top 5 Customers & Products** based on revenue contribution and Gross Margin.
 * **Sub-region performance** is summarized in a single table, showing a quick comparison of financial health and risk across different geographic areas.
-
-<img width="1492" height="807" alt="Executive View" src="https://github.com/user-attachments/assets/dd72b2be-df43-484d-ba90-e0b706bcf9d6" />
 
 
 ---
